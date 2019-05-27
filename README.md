@@ -1,3 +1,8 @@
+# TradingView Usage
+
+yarn add https://github.com/playscforever/react-native-gesture-handler
+npm install https://github.com/playscforever/react-native-gesture-handler/tarball/master
+
 <p align="center">
   <img height="150" src="https://kmagiera.github.io/react-native-gesture-handler/img/ghlogo.svg" />
   <h1 align="center">React Native Gesture Handler</h1>
